@@ -1,7 +1,7 @@
 # Hello MONAI
  Getting to know MONAI and PyTorch framework.
 
-Reimplantation of the the MONAI 2D Classification example and adapted two make it run with the latest version and a few custom changes.
+Reimplantation of the the MONAI 2D Classification example and adapted to make it run with the latest version and a few custom changes.
 
 **MONAI 2D Classification example:**
 
